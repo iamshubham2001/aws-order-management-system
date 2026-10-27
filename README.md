@@ -36,7 +36,7 @@ The solution uses a VPC with separate public and private subnets to organize app
 
 ### Architecture Diagram
 
-![AWS Order Management System Architecture](docs/architecture.png)
+![AWS Order Management System Architecture](AWS%20Order%20Management%20Architecture.png)
 
 ## Application Workflow
 
